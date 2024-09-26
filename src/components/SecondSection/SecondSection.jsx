@@ -19,7 +19,7 @@ const SecondSection = () => {
 
   const fetchData = () => {
     return axios.get(
-      "https://jumia-clone-d9ecf-default-rtdb.firebaseio.com/first.json"
+      "https://WH?LAGOS!-clone-d9ecf-default-rtdb.firebaseio.com/first.json"
     );
   };
 

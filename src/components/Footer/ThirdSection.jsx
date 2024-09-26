@@ -11,7 +11,7 @@ const ThirdSection = () => {
       <p className="text-[10px] hover:underline">BECOME A SELLER</p>
       <p className="text-[10px] hover:underline">REPORT A PRODUCT</p>
       <p className="text-[10px] hover:underline">SHIP YOUR PACKAGE ANYWHERE IN NIGERIA</p>
-      <p className="text-[10px] hover:underline">JUMIA ANNIVERSARY 2023</p>
+      <p className="text-[10px] hover:underline">WHYLAGOS! ANNIVERSARY 2023</p>
     </div>
   );
 };

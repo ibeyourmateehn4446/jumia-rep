@@ -3,18 +3,17 @@ import { AiFillApple } from "react-icons/ai";
 
 const FirstSection = () => {
   return (
-    <div className="hidden py-5 p-[20px] lg:px-[55px] bg-[#313133] text-white lg:flex flex-col md:flex-row justify-between">
-      <div className="h-[50px] w-[130px]">
+    <div className="hidden py-5 p-[20px] lg:px-[55px] bg-gray-500 text-white lg:flex flex-col md:flex-row justify-between">
+      <div className="h-[50px] w-auto">
         <img
           className="h-full object-contain"
-          src="/images/footerLogo.png"
+          src="/images/jumia-logo.png"
           alt=""
         />
       </div>
-
       <div>
         <div className="flex flex-col">
-          <h4 className="text-sm">NEW TO JUMIA?</h4>
+          <h4 className="text-sm">NEW TO WHYLAGOS! ?</h4>
           <p className="text-[11px] my-2">
             Subscribe to our newsletter to get updates on our latest offers!
           </p>
@@ -48,7 +47,7 @@ const FirstSection = () => {
           <img className="w-12 h-12" src="/images/footerstar.png" alt="" />
           <div className="flex flex-col gap-2">
             <h4 className="text-[13px] font-semibold">
-              DOWNLOAD JUMIA FREE APP
+              DOWNLOAD WHYLAGOS! FREE APP
             </h4>
             <p className="text-xs">Get access to exclusive offers!</p>
           </div>

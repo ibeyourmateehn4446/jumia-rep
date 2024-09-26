@@ -7,7 +7,7 @@ const Promotion = () => {
       <div className="flex gap-2 items-center">
         <img className="h-[20px]" src="/images/jumpay.png" alt="" />
         <p className="text-[#2671C2] hover:underline text-[11px]">
-          Need extra money? Loan up to N500,000 on JumiaPay Andriod app.
+          Need extra money? Loan up to N500,000 on WH?LAGOS! Andriod app.
         </p>
       </div>
 

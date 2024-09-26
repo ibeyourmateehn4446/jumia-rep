@@ -34,7 +34,7 @@ const Help = () => {
         </p>
 
         <p className={pclasses}>
-          <span className={spanClass}>Payment & Jumia account</span>
+          <span className={spanClass}>Payment & WHYLAGOS! account</span>
         </p>
 
         <p className={pclasses}>

@@ -84,7 +84,7 @@ const Login = () => {
           </div>
         </Link>
         <h4 className="text-center font-semibold text-lg my-3">
-          Welcome to Jumia
+          Welcome to WH?LAGOS!
         </h4>
         <p className="text-center text-[15px] text-[#414141]">
           Type your e-mail or phone number to log in or create a Jumia account.
@@ -134,7 +134,7 @@ const Login = () => {
         </p>
 
         <p className="text-center text-[12px] text-[#414141]">
-          By signing-in you agree to JUMIA FAKE CLONE Conditions of Use and
+          By signing-in you agree to WH?LAGOS! Conditions of Use and
           Sale. Please see our Privacy Notice, our Cookies Notice, and our
           Interest-Based Ads Notice.
         </p>
@@ -144,7 +144,7 @@ const Login = () => {
           onClick={createAccountHandler}
           className="w-full bg-[#FF9900] rounded-sm text-white px-3 py-2 hover:bg-[#E07E1B] shadow-md mt-4 mb-1"
         >
-          Create Your Jumia Account
+          Create Your WH?LAGOS! Account
         </button>
 
         <p className="text-center text-xs text-red-600">
